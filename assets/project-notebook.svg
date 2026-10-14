@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title description">
+  <title id="title">haifeng17 · 项目手记</title>
+  <desc id="description">把想法，写成可用的工具。数据采集、文档处理、开发工具、数据分析与学习工具，8 个项目。</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b9c9aa" opacity=".55"/></pattern></defs>
+  <rect width="1200" height="350" rx="18" fill="#203b31"/>
+  <rect x="760" width="440" height="350" fill="url(#dots)" opacity=".3"/>
+  <circle cx="60" cy="47" r="4" fill="#dce8b8"/>
+  <text x="75" y="52" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.3" fill="#dce8b8">HAIFENG17 / PROJECT NOTEBOOK</text>
+  <text x="55" y="134" font-family="Georgia,'Noto Serif SC','Microsoft YaHei',serif" font-size="48" fill="#f6f7f2">把想法，</text>
+  <rect x="55" y="196" width="350" height="12" rx="2" fill="#597447"/>
+  <text x="55" y="204" font-family="Georgia,'Noto Serif SC','Microsoft YaHei',serif" font-size="48" fill="#f6f7f2">写成可用的工具。</text>
+  <text x="57" y="263" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#becdbd">数据采集 · 文档处理 · 开发工具 · 数据分析 · 学习工具</text>
+  <text x="57" y="314" font-family="Consolas,monospace" font-size="12" letter-spacing="1" fill="#93aa93">08 PROJECTS / 05 TOPICS</text>
+  <g transform="translate(776 48) rotate(4 170 125)">
+    <rect x="10" y="12" width="336" height="248" rx="12" fill="#142a22"/>
+    <rect width="336" height="248" rx="12" fill="#f1f4e9"/>
+    <path d="M22 44H314" stroke="#d4ddc9"/>
+    <text x="23" y="28" font-family="Consolas,monospace" font-size="11" fill="#61705a">~/haifeng17/projects</text>
+    <circle cx="295" cy="23" r="3" fill="#a6b58b"/><circle cx="307" cy="23" r="3" fill="#a6b58b"/>
+    <text x="23" y="78" font-family="Consolas,monospace" font-size="14" fill="#203b31">projects /</text>
+    <g fill="#c7d59e" stroke="#adbc86"><path d="M30 99h10l3 4h13v14H30z"/><path d="M30 131h10l3 4h13v14H30z"/><path d="M30 163h10l3 4h13v14H30z"/></g>
+    <g font-family="Consolas,monospace" font-size="12" fill="#62735c"><text x="68" y="113">collect &amp; organize</text><text x="68" y="145">documents &amp; privacy</text><text x="68" y="177">build &amp; investigate</text></g>
+    <path d="M23 201H313" stroke="#cbd6bf" stroke-dasharray="4 4"/>
+    <text x="23" y="227" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="11" fill="#63745b">从具体问题开始</text>
+    <text x="230" y="227" font-family="Consolas,monospace" font-size="11" fill="#63745b">8 repositories</text>
+  </g>
+</svg>
